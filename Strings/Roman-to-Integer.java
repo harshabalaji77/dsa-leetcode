@@ -14,7 +14,6 @@ class Solution {
             
             prevValue = currentValue;
         }
-
         return total;
     }
 
